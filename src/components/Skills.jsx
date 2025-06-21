@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { Code, Database, Globe, Brain, Eye, Wrench, PenTool, Monitor } from 'lucide-react';
 
 const skillsData = [
-  { Icon: Code, title: 'Programming Languages', skills: ['C', 'Python','JavaScript'] },
+  { Icon: Code, title: 'Programming Languages', skills: ['C++', 'Python','JavaScript'] },
   { Icon: Database, title: 'Database', skills: ['MySQL', 'MongoDB'] },
-  { Icon: Globe, title: 'Web Technologies', skills: ['HTML', 'CSS', 'JSON', 'NodeJS', 'ExpressJS', 'RESTful API', 'EJS', 'Mongoose', 'ReactJS'] },
+  { Icon: Globe, title: 'Web Technologies', skills: ['HTML', 'CSS', 'JSON', 'NodeJS', 'ExpressJS', 'RESTful API', 'Mongoose', 'ReactJS'] },
   { Icon: Brain, title: 'Machine Learning', skills: ['Linear Regression', 'Logistic Regression', 'SVM', 'KNN', 'Decision Tree', 'Random Forest'] },
 ];
 
