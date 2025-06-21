@@ -28,7 +28,7 @@ export default function About() {
 
           <TypeAnimation
             sequence={[
-              'AIML Engineer', 2000,
+              'Machine Learning Enthusiast',
               'Full Stack Web Developer', 2000,
               'Software Engineer', 2000,
               'MERN Stack Developer', 2000,
