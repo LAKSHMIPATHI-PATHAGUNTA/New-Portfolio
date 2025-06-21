@@ -15,7 +15,7 @@ const projects = [
     github: "https://github.com/LAKSHMIPATHI-PATHAGUNTA/House-price-prediction"  // Add the link to the repository if available
   },
   {
-    title: "Task Manager}",
+    title: "Task Manager",
     tech: "Expressjs, Node Js, MongODB",
     description: "Built a simple and efficient backend application that allows users to add, edit, update, and delete tasks using Node.js and Express .Implemented user authentication and task management features including marking tasks as complete, organizing by priority, and removing unnecessary items. Gained hands-on experience with the Express framework in JavaScript and used asynchronous functions to ensure smooth and non-blocking program execution.",
     github: "https://github.com/LAKSHMIPATHI-PATHAGUNTA/Task-manager"  // Add the link to the repository if available
