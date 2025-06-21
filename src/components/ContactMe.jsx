@@ -108,7 +108,7 @@ export default function ContactMe() {
           <div className="mt-10 flex justify-center space-x-10">
             <div className="flex items-center space-x-2">
               <Mail className="text-red-500" size={24} />
-              <span className="text-lg text-gray-700">lakshmipathi.0811@gmal.com</span>
+              <span className="text-lg text-gray-700">lakshmipathi.0811@gmail.com</span>
             </div>
             <div className="flex items-center space-x-2">
               <Phone className="text-green-500" size={24} />
