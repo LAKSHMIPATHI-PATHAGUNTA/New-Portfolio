@@ -27,7 +27,7 @@ export default function HeroPage() {
             Hi, I'm <span className="text-purple-600">Lakshmipathi Pathagunta</span>
           </h1>
           <p className="text-gray-600 mb-6 max-w-lg mx-auto lg:mx-0">
-            I'm passionate about creating innovative solutions and bringing ideas to life through code. With expertise in AI/ML, full-stack development, and data science, I am ready to tackle complex challenges and drive impactful results.
+            I'm passionate about creating innovative solutions and bringing ideas to life through code. With expertise in AI/ML, full-stack development, and Problem Solving, I am ready to tackle complex challenges and drive impactful results.
           </p>
           <div className="flex justify-center lg:justify-start space-x-4 mb-6">
             <a href="https://www.linkedin.com/in/pathagunta-lakshmipathi-81656624b/" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:text-purple-800 transition-colors duration-300">
