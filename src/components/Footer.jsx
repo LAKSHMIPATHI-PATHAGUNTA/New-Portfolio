@@ -10,7 +10,6 @@ export default function Footer() {
     // Create a script element
     const script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://counter4.optistats.ovh/private/counter.js?c=g7ex5m73jp1xms23s1lwqt877lm4p3ak&down=async';
     script.async = true;
 
     // Append the script to the document body
@@ -29,23 +28,8 @@ export default function Footer() {
           {/* Personal Info */}
           <div className="flex items-center space-x-4 mb-2 md:mb-0">
             <div>
-              <h3 className="text-lg font-bold">Mahanthi Rahul</h3>
+              <h3 className="text-lg font-bold">Lakshmipathi Pathagunta</h3>
             </div>
-          </div>
-
-          {/* Visitor Counter */}
-          <div className="mb-2 md:mb-0">
-            <div id="sfcg7ex5m73jp1xms23s1lwqt877lm4p3ak"></div>
-            <noscript>
-              <a href="https://www.freecounterstat.com" title="website counter code">
-                <img 
-                  src="https://counter4.optistats.ovh/private/freecounterstat.php?c=g7ex5m73jp1xms23s1lwqt877lm4p3ak" 
-                  border="0" 
-                  title="website counter code" 
-                  alt="website counter code"
-                />
-              </a>
-            </noscript>
           </div>
 
           {/* Social Links */}
