@@ -28,7 +28,6 @@ const ExperienceCard = ({ experience }) => (
   <a href={experience.link} target="_blank" rel="noopener noreferrer" className="block">
     <div className="bg-gradient-to-tl from-indigo-500 via-purple-600 to-pink-500 rounded-lg shadow-xl p-8 hover:shadow-2xl transition-shadow duration-300 group">
       <div className="flex flex-col md:flex-row items-start">
-        <img src={experience.image} alt={experience.title} className="w-full md:w-80 h-48 md:h-64 object-cover mb-4 md:mb-0 md:mr-8 rounded-lg shadow-lg" />
         <div className="flex-1 text-white">
           <div className="flex items-center justify-between mb-4">
             <h3 className="text-3xl font-bold">{experience.title}</h3>
